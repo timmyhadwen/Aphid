@@ -24,7 +24,7 @@ A lightweight MQTT 3.1.1 client written in pure Swift 3
     let package = Package(
         name: "ProjectName",
         dependencies: [
-            .Package(url: "https://github.com/IBM-Swift/Aphid.git", majorVersion: 0)
+            .Package(url: "https://github.com/timmyhadwen/Aphid.git", majorVersion: 0)
         ])
     ```
 3. Create XCode project to build library (Optional)
